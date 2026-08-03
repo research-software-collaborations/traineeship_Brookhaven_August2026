@@ -1,0 +1,3 @@
+[submodule "hsf-training-scikit-hep-webpage"]
+	path = hsf-training-scikit-hep-webpage
+	url = https://github.com/hsf-training/hsf-training-scikit-hep-webpage
