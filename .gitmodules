@@ -1,3 +1,12 @@
 [submodule "hsf-training-scikit-hep-webpage"]
 	path = hsf-training-scikit-hep-webpage
 	url = https://github.com/hsf-training/hsf-training-scikit-hep-webpage
+[submodule "2026-08-10-tac-hep-tutorial"]
+	path = 2026-08-10-tac-hep-tutorial
+	url = https://github.com/wleight/2026-08-10-tac-hep-tutorial
+[submodule "level-up-your-python"]
+	path = level-up-your-python
+	url = https://github.com/henryiii/level-up-your-python
+[submodule "tools-to-help"]
+	path = tools-to-help
+	url = https://github.com/henryiii/tools-to-help
