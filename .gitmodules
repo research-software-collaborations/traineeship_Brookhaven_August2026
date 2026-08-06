@@ -10,3 +10,6 @@
 [submodule "tools-to-help"]
 	path = tools-to-help
 	url = https://github.com/henryiii/tools-to-help
+[submodule "debugtutorial"]
+	path = debugtutorial
+	url = https://gitlab.cern.ch/ssnyder/debugtutorial/
